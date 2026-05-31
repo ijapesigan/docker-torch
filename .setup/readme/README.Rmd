@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 ```
 
 <!-- badges: start -->
-[![Docker and Apptainer Build [amd64]](https://github.com/ijapesigan/docker-torch/actions/workflows/docker-apptainer-build-push-amd64.yml/badge.svg)](https://github.com/ijapesigan/docker-torch/actions/workflows/docker-apptainer-build-amd64.yml)
+[![Docker and Apptainer Build [amd64]](https://github.com/ijapesigan/docker-torch/actions/workflows/docker-apptainer-build-amd64.yml/badge.svg)](https://github.com/ijapesigan/docker-torch/actions/workflows/docker-apptainer-build-amd64.yml)
 [![Docker and Apptainer Build [amd64] (Daily)](https://github.com/ijapesigan/docker-torch/actions/workflows/docker-apptainer-build-daily-amd64.yml/badge.svg)](https://github.com/ijapesigan/docker-torch/actions/workflows/docker-apptainer-build-daily-amd64.yml)
 [![Make Project](https://github.com/ijapesigan/docker-torch/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-torch/actions/workflows/make.yml)
 [![Non-ASCII Check](https://github.com/ijapesigan/docker-torch/actions/workflows/non-ascii-check.yml/badge.svg)](https://github.com/ijapesigan/docker-torch/actions/workflows/non-ascii-check.yml)
