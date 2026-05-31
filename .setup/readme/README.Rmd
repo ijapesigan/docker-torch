@@ -1,0 +1,22 @@
+---
+title: "ijapesigan/torch"
+author: "Ivan Jacob Agaloos Pesigan"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+<!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+<!-- badges: start -->
+[![Make Project](https://github.com/ijapesigan/docker-torch/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/docker-torch/actions/workflows/make.yml)
+[![Shell Check](https://github.com/ijapesigan/docker-torch/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/docker-torch/actions/workflows/shellcheck.yml)
+<!-- badges: end -->
