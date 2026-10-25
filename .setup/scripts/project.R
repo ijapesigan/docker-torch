@@ -18,6 +18,19 @@
 
 project <- "docker-torch"
 
+type <- "docker"
+
+workflows <- c(
+  "docker-build-push-amd64-only",
+  "docker-build-push-daily-amd64-only"
+)
+
+workflow_daily <- "torch"
+
+workflow_title <- "Docker Build and Push Torch [amd64] (Daily)"
+
+workflow_cron <- "0 0 * * *"
+
 rproject_ver <- NULL
 
 pkg_cran <- c()
